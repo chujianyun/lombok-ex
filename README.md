@@ -2,6 +2,8 @@
 
 lombok-ex 是一款类似于 lombok 的编译时注解框架。
 
+编译时注，拥有运行时注解的便利性，和无任何损失的性能。
+
 主要补充一些 lombok 没有实现，且自己会用到的常见工具。
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.houbb/lombok-ex/badge.svg)](http://mvnrepository.com/artifact/com.github.houbb/lombok-ex)
